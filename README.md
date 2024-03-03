@@ -24,7 +24,7 @@
           ![PesquisaTorta](/outputs/PesquisaTorta.png)        
       - **Instrutor de Fitness:** Orienta você a criar programas de treino e cuidar da sua saúde;
           ![PerguntaFitness](/outputs/PerguntaFitness.png)
-  - Algumas repostas apresentam citações, essas são sempre sinalizadas com um pontilhado embaixo da frase
+  - Algumas repostas apresentam citações, essas são sempre sinalizadas com um pontilhado embaixo da frase e um número sobrescrito
   - Algumas respostas apresentam links, esses são sempre sinalizados na cor azul
   - No final de toda resposta é possível visualizar as referências de sites que foram usadas em **Saiba Mais**
 ## 2. Azure OpenAI
